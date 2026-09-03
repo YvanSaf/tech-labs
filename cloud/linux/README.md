@@ -9,3 +9,4 @@
 | [233](./lab-233-file-system.md) | Working with the Linux File System (mkdir, touch, cp, mv, rm, rmdir) |
 | [235](./lab-235-working-with-files.md) | Working with Files (tar backup, logging with tee, file transfer) |
 | [237](./lab-237-file-permissions.md) | Managing File Permissions (chown, chmod symbolic/absolute mode) |
+| [239](./lab-239-managing-processes.md) | Managing Processes (ps, top, cron) |
