@@ -6,3 +6,4 @@
 | [227](./lab-227-command-line.md) | Linux Command Line (system info, history, search, command reuse) |
 | [229](./lab-229-users-groups.md) | Managing Users and Groups (useradd, groupadd, usermod, sudoers, log review) |
 | [231](./lab-231-editing-files.md) | Editing Files in Linux (vimtutor, Vim save/quit behavior, nano) |
+| [233](./lab-233-file-system.md) | Working with the Linux File System (mkdir, touch, cp, mv, rm, rmdir) |
