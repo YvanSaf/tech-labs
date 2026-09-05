@@ -13,3 +13,4 @@
 | [241](./lab-241-managing-services.md) | Managing Services & Monitoring (systemctl, httpd, top, CloudWatch) |
 | [243](./lab-243-software-management.md) | Software Management (yum update, history rollback, AWS CLI install) |
 | [245](./lab-245-managing-log-files.md) | Managing Log Files (secure log analysis, lastlog) |
+| [247](./lab-247-working-with-commands.md) | Working with Commands (tee, sort, grep, cut, sed) |
