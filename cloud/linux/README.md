@@ -12,3 +12,4 @@
 | [239](./lab-239-managing-processes.md) | Managing Processes (ps, top, cron) |
 | [241](./lab-241-managing-services.md) | Managing Services & Monitoring (systemctl, httpd, top, CloudWatch) |
 | [243](./lab-243-software-management.md) | Software Management (yum update, history rollback, AWS CLI install) |
+| [245](./lab-245-managing-log-files.md) | Managing Log Files (secure log analysis, lastlog) |
